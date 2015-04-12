@@ -1,6 +1,6 @@
 ## Simulasi UN CBT 2015
 
-Aplikasi ini hanyalah simulasi untuk Ujian Nasional tingkat SMA/SMK yang mulai tahun 2015 ini menggunakan Sistem Computer Based Test. Aplikasi ini telah diuji coba pada bulan April di Makassar.
+Aplikasi ini hanyalah simulasi untuk Ujian Nasional tingkat SMA/SMK yang mulai tahun 2015 ini menggunakan Sistem Computer Based Test. Aplikasi ini telah diuji coba pada bulan Maret lalu di Makassar, dengan diikuti oleh seratusan siswa dari berbagai sekolah yang penasaran untuk melakukan uji coba. Kegiatan tersebut difasilitasi oleh Bimbingan Belajar terbesar di Makassar.
 
 Walaupun sukses sebagai aplikasi simulasi UN CBT, tapi aplikasi ini sangat tidak recommended untuk diterapkan karena:
  1. Masih menggunakan file image untuk menampilkan soal dan ini sangat boros dalam hal sumber daya
