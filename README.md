@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Simulasi UN CBT 2015
 
 Aplikasi ini hanyalah simulasi untuk Ujian Nasional tingkat SMA/SMK yang mulai tahun 2015 ini menggunakan Sistem Computer Based Test. Aplikasi ini telah diuji coba pada bulan April di Makassar.
@@ -60,3 +61,6 @@ jangan lupa lakukan konfigurasi virtual host (untuk pengguna apache) atau yang s
 
 2. Setelah menginput soal dan akan melakukan uji coba, salin folder listenings, questions, literatures dari folder asset project pantia ke folder asset  project ujian.
 
+=======
+# un_online 
+>>>>>>> 58cec6583e34a5b79bb2585b0a7b75c72785dd3d
