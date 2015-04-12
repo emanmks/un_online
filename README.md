@@ -3,13 +3,13 @@
 Aplikasi ini hanyalah simulasi untuk Ujian Nasional tingkat SMA/SMK yang mulai tahun 2015 ini menggunakan Sistem Computer Based Test. Aplikasi ini telah diuji coba pada bulan April di Makassar.
 
 Walaupun sukses sebagai aplikasi simulasi UN CBT, tapi aplikasi ini sangat tidak recommended untuk diterapkan karena:
-1. Masih menggunakan file image untuk menampilkan soal dan ini sangat boros dalam hal sumber daya
-2. Masih terlalu banyak kekurangan untuk diperbaiki
+ 1. Masih menggunakan file image untuk menampilkan soal dan ini sangat boros dalam hal sumber daya
+ 2. Masih terlalu banyak kekurangan untuk diperbaiki
 
 Meski begitu, pada akhirnya saya tetap memutuskan mempublish source code aplikasi ini ke publik, karena beberapa alasan berikut:
-1. Menjadi saran pembelajaran bagi programmer pemula
-2. Salah satu referensi untuk mendevelop simulasi UN CBT ini
-3. Siapatau dengan mempublish ke publik banyak developer-developer lain yang lebih berkualitas mau berkontribusi dan terinspirasi membuat sistem yang jauh lebih baik. Dan tentunya kita bisa menghasilkan UN CBT yang lebih berkualitas di tahun-tahun yang akan datang.
+ 1. Menjadi saran pembelajaran bagi programmer pemula
+ 2. Salah satu referensi untuk mendevelop simulasi UN CBT ini
+ 3. Siapatau dengan mempublish ke publik banyak developer-developer lain yang lebih berkualitas mau berkontribusi dan terinspirasi membuat sistem yang jauh lebih baik. Dan tentunya kita bisa menghasilkan UN CBT yang lebih berkualitas di tahun-tahun yang akan datang.
 
 ## Struktur Repository
 
