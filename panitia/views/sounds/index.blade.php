@@ -1,0 +1,1 @@
+C:\ewakoolabs\httpd\htdocs\ujian\app/views/sounds/index.blade.php
