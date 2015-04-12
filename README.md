@@ -14,19 +14,17 @@ Meski begitu, pada akhirnya saya tetap memutuskan mempublish source code aplikas
 ## Struktur Repository
 
 Repository ini terdiri atas module, yaitu:
-1.Modul Panitia
-   Digunakan oleh panitia untuk mengelola:
+ 1.  Modul Panitia, digunakan oleh panitia untuk mengelola:
    - Paket Soal
    - Login untuk calon Peserta Ujian
    - Monitoring Hasil Ujian
-2.Modul Ujian
-   Digunakan oleh siswa/peserta ujian untuk:
+ 2.  Modul Ujian, digunakan oleh siswa/peserta ujian untuk:
    - Login dan mengerjakan soal
    - Mengakses paket soal yang diinginkan
    - Mengerjakan Soal Secara Online
    - Melihat hasil dan history hasil ujian
-3.File database.sql
-4.File README.md
+3.  File database.sql
+4.  File README.md
 
 ## Instalasi
 ### Instalasi Modul Panitia
